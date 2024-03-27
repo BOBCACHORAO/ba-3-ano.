@@ -1,6 +1,16 @@
+header{
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
 body{
-    color:black;
-    background-color: rgb(238, 169, 245);
-    font-size:20px;
-    font-family: sans-serif;
+    text-align: center;
+    color: rgb(195, 137, 250);
+    background-image: linear-gradient(to right,rgb(255, 188, 246),black);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
 }
